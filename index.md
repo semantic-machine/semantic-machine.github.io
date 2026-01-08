@@ -32,11 +32,14 @@ title: Semantic Machine
 
 [Semantic-Machine (fireworkc)](https://semantic-machine.github.io/fireworkc/)
 
-[Semantic-Machine (depsek)](https://semantic-machine.github.io/depsek/)
+[//]: # ()
+[//]: # ([Semantic-Machine &#40;depsek&#41;]&#40;https://semantic-machine.github.io/depsek/&#41;)
 
-[Semantic-Machine (depsekc)](https://semantic-machine.github.io/depsekc/)
+[//]: # ()
+[//]: # ([Semantic-Machine &#40;depsekc&#41;]&#40;https://semantic-machine.github.io/depsekc/&#41;)
 
-[Semantic-Machine (depsekr)](https://semantic-machine.github.io/depsekr/)
+[//]: # ()
+[//]: # ([Semantic-Machine &#40;depsekr&#41;]&#40;https://semantic-machine.github.io/depsekr/&#41;)
 
 [Semantic-Machine (depsekrp)](https://semantic-machine.github.io/depsekrp/)
 
