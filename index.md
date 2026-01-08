@@ -8,27 +8,27 @@ title: Semantic Machine
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Semantic-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Semantic-Machine (meta)](https://semantic-machine.github.io/meta/)
 
-[Semantic-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Semantic-Machine (gemini)](https://semantic-machine.github.io/gemini/)
 
-[Semantic-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Semantic-Machine (geminit)](https://semantic-machine.github.io/geminit/)
 
-[Semantic-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Semantic-Machine (openai)](https://semantic-machine.github.io/openai/)
 
-[Semantic-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Semantic-Machine (openaic)](https://semantic-machine.github.io/openaic/)
 
-[Semantic-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Semantic-Machine (oaio)](https://semantic-machine.github.io/oaio/)
 
-[Semantic-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Semantic-Machine (grok)](https://semantic-machine.github.io/grok/)
 
-[Semantic-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Semantic-Machine (grokf)](https://semantic-machine.github.io/grokf/)
 
-[Semantic-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Semantic-Machine (grokc)](https://semantic-machine.github.io/grokc/)
 
-[Semantic-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Semantic-Machine (fireworks)](https://semantic-machine.github.io/fireworks/)
 
-[Semantic-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Semantic-Machine (fireworksr)](https://semantic-machine.github.io/fireworksr/)
 
 [Semantic-Machine (fireworkc)](https://semantic-machine.github.io/fireworkc/)
 
